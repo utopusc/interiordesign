@@ -5,7 +5,7 @@ import Cursor from "../components/cursor";
 import ScrollToTop from "../components/scrollToTop";
 import LoadingScreen from "../components/Loading-Screen";
 import "../styles/main.scss";
-import LightTheme from "../layouts/Light";
+import DarkTheme from "../layouts/Dark";
 import Team3 from "../components/Team3/team3";
 import Intro5 from "../components/Intro5/intro5";
 import AboutUs6 from "../components/About-us6/about-us6";
@@ -55,7 +55,7 @@ const MyApp = () => {
       </Head>
       <Cursor />
       <LoadingScreen />
-      <LightTheme>
+      <DarkTheme>
         <NavbarArch navbarRef={navbarRef} theme="themeL" />
         <Intro5 />
         <AboutUs6 />
@@ -67,7 +67,7 @@ const MyApp = () => {
         <LatestNews />
         <ContactArch />
         <FooterArch />
-      </LightTheme>
+      </DarkTheme>
       <ScrollToTop />
       <Script id="wow" src="/js/wow.min.js"></Script>
       <Script
