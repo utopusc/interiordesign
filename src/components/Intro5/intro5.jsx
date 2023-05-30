@@ -99,23 +99,6 @@ const Intro5 = () => {
             ))}
           </Swiper>
         ) : null}
-        <div className="setting">
-          <div className="controls">
-            <div
-              ref={navigationNextRef}
-              className="swiper-button-next swiper-nav-ctrl next-ctrl cursor-pointer"
-            >
-              <i className="ion-chevron-right"></i>
-            </div>
-            <div
-              ref={navigationPrevRef}
-              className="swiper-button-prev swiper-nav-ctrl prev-ctrl cursor-pointer"
-            >
-              <i className="ion-chevron-left"></i>
-            </div>
-          </div>
-          <div ref={paginationRef} className="swiper-pagination"></div>
-        </div>
       </div>
     </header>
   );
