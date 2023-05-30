@@ -2,25 +2,25 @@
   {
     "id": 1,
     "title": {
-      "first": "Private",
-      "second": "Houses Turnkey"
+      "first": "Your Home, Our Priority",
+      "second": ""
     },
-    "content": "We developed strong relationships with contractors and specialist companies offering discounted prices.",
-    "image": "/img/arch/slid/1.jpg"
+    "content": "With 15 years of experience, PaintMeDesign is committed to providing top-notch home improvement services in Los Angeles. We specialize in General Mounting, Furniture Assembly, and much more. Let's give your home the attention it deserves.",
+    "image": "/img/arch/slid/1.png"
   },
   {
     "id": 2,
-    "title": "Dustin Villa, Spain",
-    "content": "We developed strong relationships with contractors and specialist companies offering discounted prices.",
-    "image": "/img/arch/slid/3.jpg"
+    "title": "Furniture Assembly Made Easy",
+    "content": "Struggling with flat-pack furniture? Our skilled team at PaintMeDesign is here to help. We provide professional furniture assembly services, ensuring your home is set up just the way you like it.",
+    "image": "/img/arch/slid/3.png"
   },
   {
     "id": 3,
     "title": {
-      "first": "Innovative",
-      "second": "Architectures"
+      "first": "A Clean Home is a Happy Home",
+      "second": ""
     },
-    "content": "We developed strong relationships with contractors and specialist companies offering discounted prices.",
-    "image": "/img/arch/slid/2.jpg"
+    "content": "At PaintMeDesign, we believe that a clean home leads to a happier, healthier lifestyle. That's why we offer comprehensive cleaning services to keep your space sparkling and comfortable.",
+    "image": "/img/arch/slid/2.png"
   }
 ]

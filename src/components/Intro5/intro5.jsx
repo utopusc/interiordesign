@@ -2,6 +2,7 @@ import React from "react";
 import Link from "next/link";
 import intro5Data from "../../data/sections/intro5.json";
 import { Swiper, SwiperSlide } from "swiper/react";
+
 import SwiperCore, { Navigation, Pagination, Parallax } from "swiper";
 import "swiper/css";
 import "swiper/css/navigation";
@@ -89,16 +90,6 @@ const Intro5 = () => {
                             )}
                           </h1>
                           {slide?.content && <p>{slide.content}</p>}
-                        </div>
-                      </div>
-                      <div className="col-lg-4 valign">
-                        <div className="explore">
-                          <Link href="/project-details2/project-details2-dark"> 
-                          <a >
-                            Explore Project
-                            <i className="ion-chevron-right"></i>
-                          </a>
-                          </Link>
                         </div>
                       </div>
                     </div>
