@@ -26,10 +26,10 @@ const Works3 = () => {
             <div className="col-lg-8 col-md-10">
               <div className="sec-head">
                 <h6 className="wow fadeIn" data-wow-delay=".5s">
-                  Portfolio
+                  Services
                 </h6>
                 <h3 className="wow color-font">
-                  Our Recent Web Design &amp; <br /> Some Past Projects.
+                  Our Comprehensive Range of Home Services
                 </h3>
               </div>
             </div>
@@ -45,7 +45,7 @@ const Works3 = () => {
                   slidesPerView={2}
                   centeredSlides={true}
                   autoplay={{
-                    delay: 2500,
+                    delay: 1900,
                     disableOnInteraction: false,
                   }}
                   loop={true}
@@ -94,153 +94,140 @@ const Works3 = () => {
                       <div className="img">
                         <span className="imgio">
                           <span className="wow cimgio" data-delay="500"></span>
-                          <img src="/img/portfolio/2.jpg" alt="" />
+                          <img src="/img/portfolio/2.png" alt="" />
                         </span>
                       </div>
                       <div className="cont">
-                        <h6>
-                          <Link
-                            href={`/works3/works3-dark`}
-                          >
-                            art &amp; illustration
-                          </Link>
-                        </h6>
                         <h4>
-                          <Link
-                            href={`/project-details2/project-details2-dark`}
-                          >
-                            Inspiring new space
-                          </Link>
+                        General Mounting
                         </h4>
                       </div>
                     </div>
                   </SwiperSlide>
+
                   <SwiperSlide className="swiper-slide">
                     <div className="content">
                       <div className="img">
                         <span className="imgio">
                           <span className="wow cimgio" data-delay="500"></span>
-                          <img src="/img/portfolio/1.jpg" alt="" />
+                          <img src="/img/portfolio/3.png" alt="" />
                         </span>
                       </div>
                       <div className="cont">
-                        <h6>
-                          <Link
-                            href={`/works3/works3-dark`}
-                          >
-                            art &amp; illustration
-                          </Link>
-                        </h6>
                         <h4>
-                          <Link
-                            href={`/project-details2/project-details2-dark`}
-                          >
-                            Inspiring new space
-                          </Link>
+                        Furniture Assembly
                         </h4>
                       </div>
                     </div>
                   </SwiperSlide>
+
                   <SwiperSlide className="swiper-slide">
                     <div className="content">
                       <div className="img">
                         <span className="imgio">
                           <span className="wow cimgio" data-delay="500"></span>
-                          <img src="/img/portfolio/3.jpg" alt="" />
+                          <img src="/img/portfolio/4.png" alt="" />
                         </span>
                       </div>
                       <div className="cont">
-                        <h6>
-                          <Link
-                            href={`/works3/works3-dark`}
-                          >
-                            art &amp; illustration
-                          </Link>
-                        </h6>
                         <h4>
-                          <Link
-                            href={`/project-details2/project-details2-dark`}
-                          >
-                            Inspiring new space
-                          </Link>
+                        Help Moving
                         </h4>
                       </div>
                     </div>
                   </SwiperSlide>
+
                   <SwiperSlide className="swiper-slide">
                     <div className="content">
                       <div className="img">
                         <span className="imgio">
                           <span className="wow cimgio" data-delay="500"></span>
-                          <img src="/img/portfolio/4.jpg" alt="" />
+                          <img src="/img/portfolio/5.png" alt="" />
                         </span>
                       </div>
                       <div className="cont">
-                        <h6>
-                          <Link
-                            href={`/works3/works3-dark`}
-                          >
-                            art &amp; illustration
-                          </Link>
-                        </h6>
                         <h4>
-                          <Link
-                            href={`/project-details2/project-details2-dark`}
-                          >
-                            Inspiring new space
-                          </Link>
+                        Furniture Removal
                         </h4>
                       </div>
                     </div>
                   </SwiperSlide>
+
                   <SwiperSlide className="swiper-slide">
                     <div className="content">
                       <div className="img">
                         <span className="imgio">
                           <span className="wow cimgio" data-delay="500"></span>
-                          <img src="/img/portfolio/5.jpg" alt="" />
+                          <img src="/img/portfolio/6.png" alt="" />
                         </span>
                       </div>
                       <div className="cont">
-                        <h6>
-                          <Link
-                            href={`/works3/works3-dark`}
-                          >
-                            art &amp; illustration
-                          </Link>
-                        </h6>
                         <h4>
-                          <Link
-                            href={`/project-details2/project-details2-dark`}
-                          >
-                            Inspiring new space
-                          </Link>
+                        Cleaning
                         </h4>
                       </div>
                     </div>
                   </SwiperSlide>
+
                   <SwiperSlide className="swiper-slide">
                     <div className="content">
                       <div className="img">
                         <span className="imgio">
                           <span className="wow cimgio" data-delay="500"></span>
-                          <img src="/img/portfolio/6.jpg" alt="" />
+                          <img src="/img/portfolio/7.png" alt="" />
                         </span>
                       </div>
                       <div className="cont">
-                        <h6>
-                          <Link
-                            href={`/works3/works3-dark`}
-                          >
-                            art &amp; illustration
-                          </Link>
-                        </h6>
                         <h4>
-                          <Link
-                            href={`/project-details2/project-details2-dark`}
-                          >
-                            Inspiring new space
-                          </Link>
+                        Minor Home Repairs
+                        </h4>
+                      </div>
+                    </div>
+                  </SwiperSlide>
+                  
+                  <SwiperSlide className="swiper-slide">
+                    <div className="content">
+                      <div className="img">
+                        <span className="imgio">
+                          <span className="wow cimgio" data-delay="500"></span>
+                          <img src="/img/portfolio/8.png" alt="" />
+                        </span>
+                      </div>
+                      <div className="cont">
+                        <h4>
+                        Electrical Help
+                        </h4>
+                      </div>
+                    </div>
+                  </SwiperSlide>
+                                    
+                  <SwiperSlide className="swiper-slide">
+                    <div className="content">
+                      <div className="img">
+                        <span className="imgio">
+                          <span className="wow cimgio" data-delay="500"></span>
+                          <img src="/img/portfolio/9.png" alt="" />
+                        </span>
+                      </div>
+                      <div className="cont">
+                        <h4>
+                        Plumbing
+                        </h4>
+                      </div>
+                    </div>
+                  </SwiperSlide>
+                                                      
+                  <SwiperSlide className="swiper-slide">
+                    <div className="content">
+                      <div className="img">
+                        <span className="imgio">
+                          <span className="wow cimgio" data-delay="500"></span>
+                          <img src="/img/portfolio/10.png" alt="" />
+                        </span>
+                      </div>
+                      <div className="cont">
+                        <h4>
+                        Heavy Lifting & Loading
                         </h4>
                       </div>
                     </div>
