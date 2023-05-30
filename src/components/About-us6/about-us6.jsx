@@ -10,15 +10,15 @@ const AboutUs6 = () => {
               <div className="img">
                 <div
                   className="bg-img bg-fixed hero-bg"
-                  style={{ backgroundImage: "url(/img/arch/hero.jpg)" }}
+                  style={{ backgroundImage: "url(/img/arch/hero.png)" }}
                 ></div>
                 <div className="exp valign text-center">
                   <div className="full-width">
                     <h2
                       className="bg-img bg-fixed"
-                      style={{ backgroundImage: "url(/img/arch/hero.jpg)" }}
+                      style={{ backgroundImage: "url(/img/arch/hero.png)" }}
                     >
-                      25
+                      15
                     </h2>
                     <p>Years Of Experience</p>
                   </div>
@@ -27,25 +27,15 @@ const AboutUs6 = () => {
             </div>
 
             <div className="col-lg-6 valign">
-              <div className="content">
-                <h6 className="sub-title main-color ls10 text-u">About Us</h6>
-                <h3>Best Designers Architectures for You.</h3>
-                <p>
-                  Architecture bibendum pharetra eleifend. Suspendisse vel
-                  volutpat purus, sit amet bibendum nisl. Cras mollis turpis a
-                  ipsum ultes, nec condimentum ipsum consequat. Mauris vitae
-                  consequat nibh, vitae interdum sit amet bibendum nisl.
-                </p>
+  <div className="content">
+    <h6 className="sub-title main-color ls10 text-u">About Us</h6>
+    <h3>Experience You Can Trust</h3>
+    <p>
+      At PaintMeDesign, we pride ourselves on our rich history of delivering high-quality home improvement services in Los Angeles. With 15 years of experience in the industry, we've mastered the art of exceeding our clients' expectations. Our skilled team is proficient in a broad range of services, including General Mounting, Furniture Assembly, Help Moving, Furniture Removal, Cleaning, Minor Home Repairs, Electrical Help, Plumbing, and Heavy Lifting & Loading. We're more than just a service provider, we're a partner committed to enhancing the comfort and value of your home. 
+    </p>
+  </div>
+</div>
 
-                <Link
-                  href={`/about/about-dark`}
-                >
-                  <a className="butn bord mt-30">
-                    <span>About Us</span>
-                  </a>
-                </Link>
-              </div>
-            </div>
           </div>
         </div>
       </section>
