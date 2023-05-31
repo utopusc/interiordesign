@@ -18,39 +18,30 @@ const MinimalArea2 = () => {
             <div className="img">
               <img
                 className="thumparallax-down"
-                src="/img/min-area.jpg"
+                src="/img/min-area.png"
                 alt=""
               />
             </div>
           </div>
           <div className="col-lg-6 valign">
             <div className="content">
-              <h4 className="color-font">Dream. Innovate. Implement.</h4>
+              <h4 className="color-font">Mount. Maintain. Support.</h4>
               <Split>
                 <p className="wow txt words chars splitting" data-splitting>
-                  Our creative Ad agency is ranked among the finest in the US.
-                  We cultivate smart ideas for start-ups and seasoned players.
-                  By adhering to industry standards, we create some stunning
-                  portfolios. Company branding redefines.
+                Our company is one of the leading in providing mounting support, maintenance service, and service & support. We are dedicated to providing you with the best experience possible.
                 </p>
               </Split>
               <ul>
                 <li className="wow fadeInUp" data-wow-delay=".2s">
-                  We provide free initial consultation and support.
+                We provide expert mounting support for a variety of equipment.
                 </li>
                 <li className="wow fadeInUp" data-wow-delay=".4s">
-                  We work with some of the most successful businesses.
+                Our maintenance service ensures your equipment stays in top condition.
+                </li>
+                <li className="wow fadeInUp" data-wow-delay=".6s">
+                  Service & support? We re there for you around the clock.
                 </li>
               </ul>
-              <Link href={`/about/about-dark`}>
-                <a
-                  className="butn bord curve mt-40 wow fadeInUp"
-                  data-wow-delay=".8s"
-                >
-                  <span>Discover</span>
-                </a>
-              </Link>
-
               <br />
             </div>
           </div>

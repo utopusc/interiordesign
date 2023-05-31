@@ -86,109 +86,96 @@ class TestimonialsArch extends React.Component {
                   ],
                 }}
               >
-                <div className="item">
-                  <div className="info inf-lrg valign">
-                    <div className="cont">
-                      <div className="author">
-                        <div className="img">
-                          <img src="/img/clients/1.jpg" alt="" />
-                        </div>
-                        <h6 className="author-name color-font">
-                          Alex Regelman
-                        </h6>
-                        <span className="author-details">
-                          Co-founder, Colabrio
-                        </span>
-                      </div>
-                    </div>
-                  </div>
-                  <div className="valign">
-                    <p className="fz-20 fw-200">
-                      I would highly recommend Vie Digital. I worked with the
-                      team on an animation for our &apos;Click &amp;
-                      Collect&apos; service.
-                    </p>
-                  </div>
-                </div>
-                <div className="item">
-                  <div className="info inf-lrg valign">
-                    <div className="cont">
-                      <div className="author">
-                        <div className="img">
-                          <img src="/img/clients/1.jpg" alt="" />
-                        </div>
-                        <h6 className="author-name color-font">
-                          Alex Regelman
-                        </h6>
-                        <span className="author-details">
-                          Co-founder, Colabrio
-                        </span>
-                      </div>
-                    </div>
-                  </div>
-                  <div className="valign">
-                    <p className="fz-20 fw-200">
-                      I would highly recommend Vie Digital. I worked with the
-                      team on an animation for our &apos;Click &amp;
-                      Collect&apos; service.
-                    </p>
-                  </div>
-                </div>
-                <div className="item">
-                  <div className="info inf-lrg valign">
-                    <div className="cont">
-                      <div className="author">
-                        <div className="img">
-                          <img src="/img/clients/1.jpg" alt="" />
-                        </div>
-                        <h6 className="author-name color-font">
-                          Alex Regelman
-                        </h6>
-                        <span className="author-details">
-                          Co-founder, Colabrio
-                        </span>
-                      </div>
-                    </div>
-                  </div>
-                  <div className="valign">
-                    <p className="fz-20 fw-200">
-                      I would highly recommend Vie Digital. I worked with the
-                      team on an animation for our &apos;Click &amp;
-                      Collect&apos; service.
-                    </p>
-                  </div>
-                </div>
-                <div className="item">
-                  <div className="info inf-lrg valign">
-                    <div className="cont">
-                      <div className="author">
-                        <div className="img">
-                          <img src="/img/clients/1.jpg" alt="" />
-                        </div>
-                        <h6 className="author-name color-font">
-                          Alex Regelman
-                        </h6>
-                        <span className="author-details">
-                          Co-founder, Colabrio
-                        </span>
-                      </div>
-                    </div>
-                  </div>
-                  <div className="valign">
-                    <p className="fz-20 fw-200">
-                      I would highly recommend Vie Digital. I worked with the
-                      team on an animation for our &apos;Click &amp;
-                      Collect&apos; service.
-                    </p>
-                  </div>
-                </div>
+<div className="item">
+  <div className="info inf-lrg valign">
+    <div className="cont">
+      <div className="author">
+        <h6 className="author-name color-font">
+          John Anderson
+        </h6>
+      </div>
+    </div>
+  </div>
+  <div className="valign">
+    <p className="fz-20 fw-200">
+      Outstanding service! They exceeded my expectations. I couldn t be happier with their professionalism and attention to detail.
+    </p>
+  </div>
+</div>
+
+<div className="item">
+  <div className="info inf-lrg valign">
+    <div className="cont">
+      <div className="author">
+        <h6 className="author-name color-font">
+          Maria Smith
+        </h6>
+      </div>
+    </div>
+  </div>
+  <div className="valign">
+    <p className="fz-20 fw-200">
+      The team is extremely dedicated and their expertise in the field is evident. They were always ready to assist and promptly addressed my concerns. Highly recommend!
+    </p>
+  </div>
+</div>
+
+<div className="item">
+  <div className="info inf-lrg valign">
+    <div className="cont">
+      <div className="author">
+        <h6 className="author-name color-font">
+          Robert Williams
+        </h6>
+      </div>
+    </div>
+  </div>
+  <div className="valign">
+    <p className="fz-20 fw-200">
+      Exceptional quality of service. The whole process was smooth and the end result exceeded my expectations. I appreciate their commitment to excellence.
+    </p>
+  </div>
+</div>
+
+<div className="item">
+  <div className="info inf-lrg valign">
+    <div className="cont">
+      <div className="author">
+        <h6 className="author-name color-font">
+          Emma Brown
+        </h6>
+      </div>
+    </div>
+  </div>
+  <div className="valign">
+    <p className="fz-20 fw-200">
+      Very impressed with the high level of professionalism and the attention to detail. The team was great to work with and Im extremely satisfied with the services received.
+    </p>
+  </div>
+</div>
+
+<div className="item">
+  <div className="info inf-lrg valign">
+    <div className="cont">
+      <div className="author">
+        <h6 className="author-name color-font">
+          Oliver Davis
+        </h6>
+      </div>
+    </div>
+  </div>
+  <div className="valign">
+    <p className="fz-20 fw-200">
+      The team went above and beyond to ensure everything was perfect. The quality of their work is truly remarkable. I would highly recommend them to anyone in need of their services.
+    </p>
+  </div>
+</div>
+
               </Slider>
             </div>
           </div>
           {this.renderArrows()}
         </div>
-        <div className="line-v top"></div>
-        <div className="line-v bottom"></div>
       </section>
     );
   }
